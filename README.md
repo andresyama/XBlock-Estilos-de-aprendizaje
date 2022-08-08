@@ -66,15 +66,12 @@ Para visualizar las gráficas, se debe seleccionar la opción “Mostrar Gráfic
 
 ## 3.2 Vista Estudiante
 
-El estudiante visualiza la interfaz principal que contiene las 40 preguntas correspondientes al test que se ha seleccionado previamente, en este caso es Bandler-Grinder.
+El estudiante visualiza la interfaz principal que contiene las 29 preguntas correspondientes al test que se ha seleccionado previamente, en este caso es Test de dominancia cerebral de Hermann.
 
-Al completar todo el test, para visualizar el resultado obtenido, se debe seleccionar la opción “Enviar”. Esto despliega inmediatamente una interfaz en donde se indican los 3 tipos de dominancia: Visual, Auditiva y Kinestésica, seguido del porcentaje determinado de acuerdo a las respuestas del test, ordenadas en forma descendente.
+Al completar todo el test, para visualizar el resultado obtenido, se debe seleccionar la opción “Enviar”. Esto despliega inmediatamente una interfaz en donde se indican los 4 tipos de dominancia: Lógico matemático, Organizado analista, Emocional sensitivo, Intuitivo imaginativo y su gráfica.
 
-![Resultado de estudiante](https://raw.githubusercontent.com/LauraMamian/XBlock-Estilos-de-aprendizaje/grupo3/img/res_est1.jpg)
+![Resultado de estudiante](https://github.com/andresyama/XBlock-Estilos-de-aprendizaje/blob/main/img/res_est1.png)
 
-En la parte inferior de la interfaz, se presenta una gráfica de barras complementaria que indica los porcentajes obtenidos de cada una de las tres dominancias (Visual, Auditivo y Kinestésico) en el eje Y y los tipos de dominancia sobre el eje X.
-
-![Grafica de estudiante](https://raw.githubusercontent.com/LauraMamian/XBlock-Estilos-de-aprendizaje/grupo3/img/res_est2.jpg)
 
 Finalmente solo está habilitada la opción “Vista Studio Analytics” que redirige a la vista docente.
 
