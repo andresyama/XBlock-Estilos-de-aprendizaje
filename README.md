@@ -73,5 +73,3 @@ Al completar todo el test, para visualizar el resultado obtenido, se debe selecc
 ![Resultado de estudiante](https://github.com/andresyama/XBlock-Estilos-de-aprendizaje/blob/main/img/res_est1.png)
 
 
-Finalmente solo está habilitada la opción “Vista Studio Analytics” que redirige a la vista docente.
-
