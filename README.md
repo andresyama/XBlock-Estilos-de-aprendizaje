@@ -56,11 +56,25 @@ En este test existen 4 posibles resultados, presentados a continuación:
 
 Para visualizar los resultados de los estudiantes desde la vista diseñada para el docente, es necesario seleccionar la opción “Vista Studio Analytics”. Esto despliega una nueva interfaz, tal y como se muestra en las siguientes imágenes.  
 
-En esta interfaz, el docente puede visualizar una tabla con el ID del estudiante, el nombre del test que ha diligenciado y el resultado obtenido. Para este caso, se presenta el tipo de dominancia del estudiante y los porcentajes asociados a cada uno de ellos (Visual, Auditivo y Kinestésico).
+En esta interfaz, el docente puede visualizar una tabla con el ID del estudiante, el nombre del test que ha diligenciado y el resultado obtenido. Para este caso, se presenta el tipo de dominancia del estudiante y los porcentajes asociados a cada uno de ellos (Lógico matemático, Organizado analista, Emocional sensitivo, Intuitivo imaginativo.
 
 Para visualizar las gráficas, se debe seleccionar la opción “Mostrar Gráficas”, la cual presenta automáticamente dos gráficas generadas de acuerdo a los resultados obtenidos. En la parte derecha se muestra un gráfico circular, en términos de porcentajes, que clasifica la cantidad de estudiantes que hacen parte de las dominancias. En la parte izquierda se presenta un gráfico de barras, que permite determinar el total de estudiantes pertenecientes a cada dominancia. 
 
-![Tabla de Resultados](https://raw.githubusercontent.com/LauraMamian/XBlock-Estilos-de-aprendizaje/grupo3/img/res_tabla.png)
+![Tabla de Resultados](https://github.com/andresyama/XBlock-Estilos-de-aprendizaje/blob/main/img/res_tabla.png)
 
-![Grafica de Resultados](https://raw.githubusercontent.com/LauraMamian/XBlock-Estilos-de-aprendizaje/grupo3/img/res_grafs.png)
+![Grafica de Resultados](https://github.com/andresyama/XBlock-Estilos-de-aprendizaje/blob/main/img/res_grafs.png)
+
+## 3.2 Vista Estudiante
+
+El estudiante visualiza la interfaz principal que contiene las 40 preguntas correspondientes al test que se ha seleccionado previamente, en este caso es Bandler-Grinder.
+
+Al completar todo el test, para visualizar el resultado obtenido, se debe seleccionar la opción “Enviar”. Esto despliega inmediatamente una interfaz en donde se indican los 3 tipos de dominancia: Visual, Auditiva y Kinestésica, seguido del porcentaje determinado de acuerdo a las respuestas del test, ordenadas en forma descendente.
+
+![Resultado de estudiante](https://raw.githubusercontent.com/LauraMamian/XBlock-Estilos-de-aprendizaje/grupo3/img/res_est1.jpg)
+
+En la parte inferior de la interfaz, se presenta una gráfica de barras complementaria que indica los porcentajes obtenidos de cada una de las tres dominancias (Visual, Auditivo y Kinestésico) en el eje Y y los tipos de dominancia sobre el eje X.
+
+![Grafica de estudiante](https://raw.githubusercontent.com/LauraMamian/XBlock-Estilos-de-aprendizaje/grupo3/img/res_est2.jpg)
+
+Finalmente solo está habilitada la opción “Vista Studio Analytics” que redirige a la vista docente.
 
